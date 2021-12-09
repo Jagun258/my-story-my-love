@@ -28,12 +28,14 @@
             <div class="col">
                 <div class="row">
                     <div class="col">
-                        <img src="https://soject.com/wp-content/uploads/2021/04/1_j18U6uvAg-ta2XBvDKNQlA.jpeg" class="img-fluid" alt="dream">
+                        <img src="https://soject.com/wp-content/uploads/2021/04/1_j18U6uvAg-ta2XBvDKNQlA.jpeg"
+                            class="img-fluid" alt="dream">
                         <p class='fw-bold fs-5'>Full Stack Development</p>
                         <p>ถ้าอนาคตได้แบบนี้ คงจะดีไม่น้อย</p>
                     </div>
                     <div class="col">
-                        <img src="https://www.blognone.com/sites/default/files/externals/316c7b3fec8e63e6b241daf9603c3569.jpg" class="img-fluid" alt="chongyun">
+                        <img src="https://www.blognone.com/sites/default/files/externals/316c7b3fec8e63e6b241daf9603c3569.jpg"
+                            class="img-fluid" alt="chongyun">
                         <p class='fw-bold fs-5'>Game development with Unity</p>
                         <p>สิ่งนี้ก็อยากได้</p>
                     </div>
@@ -61,7 +63,7 @@
                 </div>
             </div>
         </div>
-
+    </div>
 </body>
 
 <script>
